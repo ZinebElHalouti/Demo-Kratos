@@ -1,0 +1,20 @@
+Schedule: 
+Makespan = 144.0
+Job 0: begins at t=0 and finishes at t=0
+Job 1: begins at t=0 and finishes at t=8
+Job 2: begins at t=0 and finishes at t=8
+Job 3: begins at t=8 and finishes at t=16
+Job 4: begins at t=8 and finishes at t=16
+Job 5: begins at t=16 and finishes at t=24
+Job 6: begins at t=16 and finishes at t=24
+Job 7: begins at t=24 and finishes at t=36
+Job 8: begins at t=24 and finishes at t=36
+Job 9: begins at t=36 and finishes at t=72
+Job 10: begins at t=72 and finishes at t=100
+Job 11: begins at t=36 and finishes at t=72
+Job 12: begins at t=72 and finishes at t=100
+Job 13: begins at t=100 and finishes at t=116
+Job 14: begins at t=116 and finishes at t=144
+Job 15: begins at t=100 and finishes at t=116
+Job 16: begins at t=116 and finishes at t=144
+Job 17: begins at t=144 and finishes at t=144
